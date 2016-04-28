@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>beijing.bmp</file>
+    </qresource>
+</RCC>
